@@ -8,6 +8,7 @@ baseurl: /GameBoy-Run
 google_analytics: ''
 include: ["_pages"]
 permalink: /:title/
+remote-theme: wowthemesnet/mediumish-theme-jekyll
 
 # Authors
 authors:
