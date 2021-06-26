@@ -12,4 +12,4 @@ you're reading it... huh.
 The main files for GameBoy-Run. Runs on a GameBoy, and [must be compiled first](//github.com/byemc/gameboy-run#compiling)
 
 - [gb-run-client.py](//github.com/byemc/gameboy-run/blob/main/gb-run-client.py) |
-The desktop-side client software. Requires [Python](//python.org) to run, but you can just use the pre-compiled [releases](//github.com/byemc/gameboy-run/releases), or compile it yourself (using [PyInstaller](//pypi.org/pyinstaller))
+The desktop-side client software. Requires [Python](//python.org) to run, but you can just use the pre-compiled [releases](//github.com/byemc/gameboy-run/releases), or compile it yourself (using [PyInstaller](//pypi.org/project/pyinstaller))
