@@ -1,0 +1,4 @@
+# Client-side requirements (PYTHON ONLY!!!)
+
+tkinter # referenced as "tk" within the gb-run-client.py file.
+logging # referenced as "log"

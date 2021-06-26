@@ -1,0 +1,10 @@
+gb-run.exe
+gb-run.gb
+.vscode/
+gb-run.ihx
+gb-run.lst
+gb-run.map
+gb-run.noi
+gb-run.o
+gb-run.sym
+gb-run.asm
