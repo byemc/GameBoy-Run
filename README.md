@@ -18,9 +18,8 @@ To compile GameBoy-Run, you will need:
 
 There are multiple ways to compile Game Boy games, but follow the one for your OS (or the closest to it).
 
-+---------------------+-----------------+-----------------+
 | [Windows](#windows) | [macOS](#macos) | [Linux](#linux) |
-+---------------------+-----------------+-----------------+
+
 
 #### Windows
 
